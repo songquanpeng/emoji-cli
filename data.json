@@ -2,33 +2,21 @@
   {
     "emoji": "\uD83C\uDF89",
     "shortcode": "tada",
-    "keywords": [
-      "庆祝",
-      "初次提交"
-    ]
+    "keywords": "庆祝 初次提交"
   },
   {
     "emoji": "\uD83C\uDD95",
     "shortcode": "new",
-    "keywords": [
-      "新功能"
-    ]
+    "keywords": "新功能"
   },
   {
     "emoji": "\uD83D\uDD16",
     "shortcode": "bookmark",
-    "keywords": [
-      "tag",
-      "标签",
-      "版本"
-    ]
+    "keywords": "tag 标签 版本"
   },
   {
     "emoji": "\uD83D\uDC1B",
     "shortcode": "bug",
-    "keywords": [
-      "bug",
-      "修复"
-    ]
+    "keywords": "bug 修复"
   }
 ]
