@@ -23,6 +23,9 @@ func init() {
 	dataDir = path.Join(home, dataDir)
 	jsonPath = path.Join(dataDir, jsonPath)
 	databasePath = path.Join(dataDir, databasePath)
+	if _, err := os.Stat(dataDir); os.IsNotExist(err) {
+		_ = os.Mkdir(dataDir, 0777)
+	}
 
 	var err error
 	db, err = gorm.Open(sqlite.Open(databasePath), &gorm.Config{})

@@ -10,9 +10,6 @@ var jsonPath = "./data.json"
 var databasePath = "./data.db"
 
 func initialize() {
-	if _, err := os.Stat(dataDir); os.IsNotExist(err) {
-		_ = os.Mkdir(dataDir, 0777)
-	}
 	if _, err := os.Stat(jsonPath); os.IsNotExist(err) {
 		fetchData()
 	}
