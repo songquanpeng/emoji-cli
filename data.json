@@ -2,21 +2,181 @@
   {
     "emoji": "\uD83C\uDF89",
     "shortcode": "tada",
-    "keywords": "庆祝 初次提交"
+    "keywords": "庆祝 初次提交 哈哈 开心"
   },
   {
     "emoji": "\uD83C\uDD95",
     "shortcode": "new",
-    "keywords": "新功能"
+    "keywords": "新功能 new feature"
   },
   {
     "emoji": "\uD83D\uDD16",
     "shortcode": "bookmark",
-    "keywords": "tag 标签 版本"
+    "keywords": "tag 标签 版本 发行"
   },
   {
     "emoji": "\uD83D\uDC1B",
     "shortcode": "bug",
     "keywords": "bug 修复"
+  },
+  {
+    "emoji": "\uD83D\uDE91",
+    "shortcode": "ambulance",
+    "keywords": "补丁 急救 致命 车"
+  },
+  {
+    "emoji": "\uD83C\uDF10",
+    "shortcode": "globe_with_meridians",
+    "keywords": "地球 国际 本地 earth"
+  },
+  {
+    "emoji": "\uD83D\uDC84",
+    "shortcode": "lipstick",
+    "keywords": "口红 样式 UI ui"
+  },
+  {
+    "emoji": "\uD83C\uDFAC",
+    "shortcode": "clapper",
+    "keywords": "场记板 演示 demo 示例 例子"
+  },
+  {
+    "emoji": "\uD83D\uDEA8",
+    "shortcode": "rotating_light",
+    "keywords": "警告 警车 注意"
+  },
+  {
+    "emoji": "\uD83D\uDD27",
+    "shortcode": "wrench",
+    "keywords": "扳手 配置 config"
+  },
+  {
+    "emoji": "➕",
+    "shortcode": "heavy_plus_sign",
+    "keywords": "增加 依赖"
+  },
+  {
+    "emoji": "➖",
+    "shortcode": "heavy_minus_sign",
+    "keywords": "减少 依赖"
+  },
+  {
+    "emoji": "⬆️",
+    "shortcode": "arrow_up",
+    "keywords": "升级 更新 依赖"
+  },
+  {
+    "emoji": "⬇️",
+    "shortcode": "arrow_down",
+    "keywords": "降级 依赖"
+  },
+  {
+    "emoji": "⚡",
+    "shortcode": "zap",
+    "keywords": "性能 提升 改进"
+  },
+  {
+    "emoji": "\uD83D\uDC0E",
+    "shortcode": "racehorse",
+    "keywords": "性能 提升 改进 马"
+  },
+  {
+    "emoji": "\uD83D\uDCC8",
+    "shortcode": "chart_with_upwards_trend",
+    "keywords": "分析 跟踪 图表"
+  },
+  {
+    "emoji": "\uD83D\uDE80",
+    "shortcode": "rocket",
+    "keywords": "部署 火箭 性能 提升"
+  },
+  {
+    "emoji": "✅",
+    "shortcode": "white_check_mark",
+    "keywords": "测试 通过 TODO 完成"
+  },
+  {
+    "emoji": "\uD83D\uDCDD",
+    "shortcode": "memo",
+    "keywords": "文档 README 教程 备忘录"
+  },
+  {
+    "emoji": "\uD83D\uDCD6",
+    "shortcode": "book",
+    "keywords": "文档 README 教程 书"
+  },
+  {
+    "emoji": "\uD83D\uDD28",
+    "shortcode": "hammer",
+    "keywords": "锤子 修改 重构"
+  },
+  {
+    "emoji": "\uD83C\uDFA8",
+    "shortcode": "art",
+    "keywords": "调色板 UI 格式 样式 艺术"
+  },
+  {
+    "emoji": "\uD83D\uDD25",
+    "shortcode": "fire",
+    "keywords": "火 删除 移除 清理"
+  },
+  {
+    "emoji": "✏️",
+    "shortcode": "pencil2",
+    "keywords": "笔 typo 文档"
+  },
+  {
+    "emoji": "\uD83D\uDEA7",
+    "shortcode": "construction",
+    "keywords": "进行 save 保存"
+  },
+  {
+    "emoji": "\uD83D\uDDD1",
+    "shortcode": "wastebasket",
+    "keywords": "废弃 删除 垃圾"
+  },
+  {
+    "emoji": "♿",
+    "shortcode": "wheelchair",
+    "keywords": "轮椅 访问"
+  },
+  {
+    "emoji": "\uD83D\uDC77",
+    "shortcode": "construction_worker",
+    "keywords": "CI 功能 构建 工人 人"
+  },
+  {
+    "emoji": "\uD83D\uDC9A",
+    "shortcode": "green_heart",
+    "keywords": "heart CI 构建"
+  },
+  {
+    "emoji": "\uD83D\uDD12",
+    "shortcode": "lock",
+    "keywords": "锁 安全 secure lock"
+  },
+  {
+    "emoji": "\uD83D\uDC33",
+    "shortcode": "whale",
+    "keywords": "docker 容器"
+  },
+  {
+    "emoji": "\uD83C\uDF4E",
+    "shortcode": "apple",
+    "keywords": "苹果 mac ios darwin 系统"
+  },
+  {
+    "emoji": "\uD83D\uDC27",
+    "shortcode": "penguin",
+    "keywords": "企鹅 linux 系统"
+  },
+  {
+    "emoji": "\uD83C\uDFC1",
+    "shortcode": "checkered_flag",
+    "keywords": "旗 flag windows"
+  },
+  {
+    "emoji": "\uD83D\uDD00",
+    "shortcode": "twisted_rightwards_arrows",
+    "keywords": "交叉 箭头 merge 分支"
   }
 ]
